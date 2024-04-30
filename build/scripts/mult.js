@@ -1,0 +1,1 @@
+function multi(t,u){return t*u}module.exports=multi;
